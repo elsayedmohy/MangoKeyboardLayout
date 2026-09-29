@@ -1,0 +1,11 @@
+{
+  "id": "mangoKeyboardLayout",
+  "name": "Mango Keyboard Layout",
+  "description": "Shows the current MangoWM keyboard layout",
+  "version": "1.0.0",
+  "author": "sayedmohy",
+  "type": "widget",
+  "capabilities": ["dankbar-widget"],
+  "component": "./MangoKeyboardLayout.qml",
+  "icon": "language"
+}
